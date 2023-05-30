@@ -1,0 +1,3 @@
+quote,author,tags
+Criteria for PR force approval:Individual test failures that are already known and seen in the target branch; File changes that are not apart of VM / CN; Known CORES (already seen in target branch) when the testing is still able to complete,C,"Criteria','policy','guideline'"
+"How to debug the consistent failure in smoke: You could debug it in the below ways, Check the log (link is in the triage report on the PR page) to see if any detailed errors prints in logs, Try to split your PR into smaller pieces and adding them gradually in a new PR, it can give you which piece is causing the problem",T,"debug', 'consistent', 'failure', 'smoke'"

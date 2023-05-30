@@ -1,0 +1,2 @@
+quote,author,tags
+we don’t know if the PR will cause any other regressions. We only bypass smoke for PRs with HW only or GUI only related changes.,T,"Criteria','policy','guideline'"
